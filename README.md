@@ -1,39 +1,58 @@
-h# Hi 👋 I'm Guhan
-
-<h1 align="center">Hi 👋, I'm Guhan</h1>
-<h3 align="center">Cybersecurity Enthusiast | Web Developer | Student</h3>
+<h1 align="center">Hi 👋 I'm Guhan S</h1>
+<h3 align="center">Cybersecurity Enthusiast | Web Developer | Learner</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student passionate about technology
-- 🔐 Interested in Cybersecurity
-- 🌐 Learning Full Stack Web Development
-- 🚀 Building real-world projects
-- 📚 Always improving my skills
+- 🎓 Undergraduate Student passionate about technology
+- 🛡 Interested in Cybersecurity, Ethical Hacking & Network Security
+- 🌐 Building Web Applications using HTML, CSS, JavaScript
+- 💻 Exploring Python and Software Development
+- 🔍 Always learning new tools and improving my skills
 
 ---
 
-## 🛠️ Skills
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,github" />
+## 🛠 Skills
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,github,linux,bootstrap" />
 </p>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+Learner;CTF+Player;Web+Developer;Always+Learning)
 
+- 🐍 Python  
+- 🌐 HTML & CSS  
+- 💻 JavaScript  
+- 🔐 Cybersecurity fundamentals  
+- 🧠 Problem solving & logical thinking  
+- 🧰 Git & GitHub  
 
 ---
 
 ## 📊 GitHub Stats
-![Guhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guhans2006&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guhans2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guhans2006&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guhans2006&theme=tokyonight)
+## 💼 Education
+- 🎓 Pursuing Undergraduate Degree  
+- 📍 Strengthening fundamentals in Computer Science & Security
 
 ---
 
-## 🌟 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/guhan-s-730380328
+## 📫 Get in Touch
+<p align="left">
+<a href="https://www.linkedin.com/in/guhan-s-730380328" target="_blank">LinkedIn</a> •
+<a href="mailto:guhansemail@gmail.com">Email</a>
+</p>
 
+---
 
+## 🎯 My Goals
+- ✔ Build real-world cybersecurity and web development projects  
+- ✔ Practice and compete in CTF challenges  
+- ✔ Improve proficiency in Python and security tools  
+- ✔ Prepare for internships or junior developer roles
