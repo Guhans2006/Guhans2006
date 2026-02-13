@@ -1,4 +1,4 @@
-# Hi 👋 I'm Guhan
+h# Hi 👋 I'm Guhan
 
 <h1 align="center">Hi 👋, I'm Guhan</h1>
 <h3 align="center">Cybersecurity Enthusiast | Web Developer | Student</h3>
@@ -18,6 +18,8 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,github" />
 </p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+Learner;CTF+Player;Web+Developer;Always+Learning)
+
 
 ---
 
@@ -32,4 +34,6 @@
 ---
 
 ## 🌟 Connect With Me
-- 💼 LinkedIn: (Add your LinkedIn link here)
+- 💼 LinkedIn: www.linkedin.com/in/guhan-s-730380328
+
+
