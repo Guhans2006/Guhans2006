@@ -19,7 +19,14 @@
 ## 🛠 Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,github,linux" />
-</p>
+  </p>
+- 🐍 Python  
+- 🌐 HTML & CSS  
+- 💻 JavaScript  
+- 🔐 Cybersecurity fundamentals  
+- 🧠 Problem solving & logical thinking  
+- 🧰 Git & GitHub  
+
 
 ---
 
@@ -30,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guhans2006&theme=chartreuse-dark" />
-  <p>MAIL: sguhan060906@gmail.com</p>
+ 
 </p>
 
 ---
@@ -38,7 +45,15 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/guhan-s-730380328">LinkedIn</a>
+   <a href="sguhan060906@gmail.com">Email</a>
 </p>
+---
+
+## 🎯 My Goals
+- ✔ Build real-world cybersecurity and web development projects  
+- ✔ Practice and compete in CTF challenges  
+- ✔ Improve proficiency in Python and security tools  
+- ✔ Prepare for internships or junior developer roles
 
 ---
 
